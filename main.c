@@ -1,4 +1,4 @@
-Lab 5 - 2 displays 7 segmentos
+//Lab 5 - 2 displays 7 segmentos
 #define F_CPU   16000000
 #include <util/delay.h>
 #include <avr/io.h>
